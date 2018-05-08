@@ -45,4 +45,4 @@ if(arp[0] == 'refr'){
 }
 
 addAnEventListener(window,'message',iFrameListener);
-var kurl = "http://82.116.39.253:8080";
+var kurl = "http://82.116.49.142:8080";
